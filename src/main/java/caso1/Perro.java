@@ -1,3 +1,4 @@
+package caso1;
 public class Perro extends Mascota {
 
 	private String color;
